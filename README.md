@@ -37,7 +37,7 @@ The data pipeline was built with Python for preprocessing, SQL for structured st
 ---
 
 ## 📸 Dashboard Previews
-![Sales Overview](images/sales_overview.png)
+![Sales Overview](https://github.com/SonalikaBisoyi/walmart_sales_analysis/blob/main/Screenshot%202025-08-13%20215716.png)
 ![Product Analysis](images/product_analysis.png)
 ![Customer Insights](images/customer_insights.png)
 
